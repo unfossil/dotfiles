@@ -150,6 +150,7 @@ Plug 'lervag/vimtex'                " laTeX
 Plug 'tikhomirov/vim-glsl'          " GLSL shader syntax
 Plug 'mattn/emmet-vim'
 Plug 'lervag/vimtex'
+Plug 'jaxbot/browserlink.vim'       " 'Live browser editing for Vim'
 
 call plug#end()
 
